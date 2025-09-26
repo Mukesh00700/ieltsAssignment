@@ -17,4 +17,4 @@ Designed to showcase features, mock tests, and AI-powered tools for test takers.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ielts-homepage.git
+   git clone https://github.com/Mukesh00700/ieltsAssignment
