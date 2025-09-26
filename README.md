@@ -8,7 +8,6 @@ Designed to showcase features, mock tests, and AI-powered tools for test takers.
 - Responsive Navbar with hover and click interactions
 - Hero section with background video and call-to-action buttons
 - Feature cards with creative design
-- Student testimonials section (if implemented)
 - Smooth transitions and animations
 - Mobile-friendly layout
 
